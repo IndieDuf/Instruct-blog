@@ -1,0 +1,22 @@
+
+.hero-banner {
+    background: linear-gradient(135deg, #003366, #0077b6);
+    color: white;
+    text-align: center;
+    padding: 60px 30px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.hero-banner h1 {
+    margin: 0;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.hero-banner p {
+    font-size: 1.3em;
+    margin-top: 15px;
+    opacity: 0.95;
+}
